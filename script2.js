@@ -7,4 +7,3 @@ messagejs.style.color = "green";
 let paragraphs = document.getElementsByTagName("p");
 paragraphs[1].style.backgroundColor = "yellow";
 }
-OUTPUT:
